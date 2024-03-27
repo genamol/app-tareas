@@ -43,5 +43,5 @@
 
 .task-container.completed {
   text-decoration: line-through;
-  color: #5a01a7;
+  background-color: #5a01a7;
 }
